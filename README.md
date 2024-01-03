@@ -1,7 +1,9 @@
 # Fraud-Detection-using-Machine-Learning
 Fraud Detection model based on anonymized credit card transactions
+
 **Overview**
 This repository contains an implementation of a Credit Card Fraud Detection system using machine learning techniques. The goal of this project is to build a model that can effectively identify fraudulent transactions in credit card data.
+
 **Table of Contents** 
 1. Introduction
 2. Dataset
